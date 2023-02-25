@@ -13,6 +13,8 @@ lang: en
 
 # Silence of Love — video
 
+![Featured image](featured-image.svg)
+
 <https://www.youtube.com/watch?v=rwISnBtx5_0>
 
 My 2012 video.

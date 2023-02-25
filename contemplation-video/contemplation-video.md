@@ -13,6 +13,8 @@ lang: en
 
 # Contemplation — video
 
+![Featured image](featured-image.svg)
+
 <https://www.youtube.com/watch?v=aqG6w_uYxiE>
 
 My 2013 video.
